@@ -198,13 +198,14 @@ The most common type of a registration offices are companies registration office
 
 ## OUTPUT
 
-![Alt text](<Screenshot 2023-11-18 124640.png>)
-![Alt text](home.png)
-![Alt text](ground.png)
-![Alt text](church.png)
-![Alt text](lake.png)
-![Alt text](temple.png)
-![Alt text](office.png)
+![Screenshot 2023-11-18 124640](https://github.com/THARUNDT/NearMe/assets/144871537/ecb504af-228a-4f11-98b1-c583fb70c6fc)
+![home](https://github.com/THARUNDT/NearMe/assets/144871537/79e99b3e-903d-4588-8f64-6f733e582359)
+![ground](https://github.com/THARUNDT/NearMe/assets/144871537/bd542388-d036-4800-a66d-30d7703c964c)
+![church](https://github.com/THARUNDT/NearMe/assets/144871537/e36b8b4d-43b2-4735-8e27-6215701f682e)
+![lake](https://github.com/THARUNDT/NearMe/assets/144871537/8598a6f7-209d-479d-a0a6-1f7837a1f408)
+![temple](https://github.com/THARUNDT/NearMe/assets/144871537/b58b0e29-0e9f-4782-a05d-cb2ef742ef4c)
+![office](https://github.com/THARUNDT/NearMe/assets/144871537/5451985d-3123-4b30-bf18-130b20f92c3a)
+
 
 
 
